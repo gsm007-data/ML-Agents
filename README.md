@@ -25,7 +25,7 @@ Want to dive into the fascinating realm of AI agents and multi-agent systems? �
 Ready to take the leap into this exciting field? 🧑‍💻 Let's build the future of AI together! 
 | Source        | Provider                                                                                                                              | 
 | ------------- |:-------------------------------------------------------------------------------------------------------------------------------------:|
-| [Functions, Tools and Agents with LangChain](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-15+V1)     |Deeplearning.AI |
+| [Functions, Tools and Agents with LangChain](https://learn.deeplearning.ai/courses/functions-tools-agents-langchain/lesson/1/introduction)     |Deeplearning.AI |
 | [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)     |Deeplearning.AI                                      |
 | [Building RAG Agents with LLMs](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-15+V1)     |Nvidia                                                                              |
 | [AI Agentic Design Patterns with AutoGen](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/)     |Deeplearning.AI                                               |
