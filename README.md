@@ -2,6 +2,12 @@
 This repo encompasses major resources to learn and have a thorough understanding of ML agents
 
 [https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-15+V1](Building RAG Agents with LLMs by Nvidia) 
+
+[Building RAG Agents with LLMs by Nvidia]([url](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-15+V1))
+
+
+
+
 Building RAG Agents with LLMs by Nvidia
 Functions, Tools and Agents with LangChain by Deeplearning.AI
 AI Agents in LangGraph by Deeplearning.AI
